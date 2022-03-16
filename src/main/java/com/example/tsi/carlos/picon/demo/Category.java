@@ -3,8 +3,9 @@ package com.example.tsi.carlos.picon.demo;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import javax.persistence.*;
 import java.util.Set;
+import javax.persistence.*;
+
 
 @Entity
 @Table(name ="category")
