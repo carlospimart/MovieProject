@@ -6,4 +6,4 @@ Feature: Read the Data
   Scenario: A language is still displayed in the screen
     Given I want to delete a language
     When I introduce an id and I press the delete button
-    Then The data is not in the data base anymore
+    Then The data is not in the data base anymore 
